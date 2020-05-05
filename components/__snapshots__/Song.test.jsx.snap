@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Song component renders Song 1`] = `
+<Fragment>
+  <h3>
+    Hello Darkness My Old Friend
+  </h3>
+  <p>
+    No Lyrics Found
+  </p>
+</Fragment>
+`;
