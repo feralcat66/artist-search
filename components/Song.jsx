@@ -7,8 +7,10 @@ const Song = ({ songTitle = 'Hello Darkness My Old Friend', songLyrics = 'No Lyr
     <p>{songLyrics}</p>
   </>
 );
+
 Song.propTypes = {
   songTitle: PropTypes.string.isRequired,
   songLyrics: PropTypes.string
 };
+
 export default Song;
